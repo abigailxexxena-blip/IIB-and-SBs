@@ -7,7 +7,9 @@ public class UNEB {
     static int RegistrationFees;
 
     {
-        
+        System.out.println("\n INSTANCE INITIALIZATION BLOCK ");
+        RegistrationStatus = "Running";
+        ExamCentre = "25/UG/1048/BSSE-S";
     }
 
 }
