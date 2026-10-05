@@ -6,4 +6,8 @@ public class UNEB {
     static int ExamYear;
     static int RegistrationFees;
 
+    {
+        
+    }
+
 }
