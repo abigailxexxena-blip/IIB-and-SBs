@@ -17,5 +17,8 @@ public class UNEB {
         RegistrationFees = 1000;
         GradingPolicies = "A=80-100, B=60-79, C=40-59";
     }
+    public UNEB(String D) {
+        CandidateName = D;
+    }
 
 }
